@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineering Intern at TechCorp",
+    "skills": ["JavaScript", "React", "Node.js"],
+    "location": "remote",
+    "tags": ["Tech", "Web Development"],
+    "sector": "Tech",
+    "education": "undergrad",
+    "skillGap": "Learn SQL for better fit",
+    "careerPath": "Leads to full-time developer roles"
+  },
+  {
+    "title": "Data Analyst Intern at DataInc",
+    "skills": ["Python", "SQL", "Excel"],
+    "location": "onsite",
+    "tags": ["Data", "Analytics"],
+    "sector": "Finance",
+    "education": "undergrad",
+    "skillGap": "Brush up on machine learning",
+    "careerPath": "Path to data science positions"
+  },
+  {
+    "title": "Marketing Intern at MarketHub",
+    "skills": ["Social Media", "Content Creation"],
+    "location": "hybrid",
+    "tags": ["Marketing", "Digital"],
+    "sector": "Education",
+    "education": "highschool",
+    "skillGap": "Gain experience in SEO",
+    "careerPath": "Opportunities in digital marketing"
+  },
+  {
+    "title": "AI/ML Intern at AI Labs",
+    "skills": ["Python", "Machine Learning", "TensorFlow"],
+    "location": "remote",
+    "tags": ["AI", "ML"],
+    "sector": "Tech",
+    "education": "grad",
+    "skillGap": "Learn deep learning",
+    "careerPath": "Path to AI research roles"
+  },
+  {
+    "title": "Finance Intern at FinCorp",
+    "skills": ["Excel", "Financial Modeling"],
+    "location": "onsite",
+    "tags": ["Finance", "Analysis"],
+    "sector": "Finance",
+    "education": "undergrad",
+    "skillGap": "Learn Bloomberg terminal",
+    "careerPath": "Leads to investment banking"
+  },
+  {
+    "title": "Healthcare Intern at HealthTech",
+    "skills": ["Data Analysis", "Research"],
+    "location": "hybrid",
+    "tags": ["Healthcare", "Research"],
+    "sector": "Healthcare",
+    "education": "grad",
+    "skillGap": "Gain medical knowledge",
+    "careerPath": "Path to healthcare consulting"
+  }
+]
